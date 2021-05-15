@@ -1,0 +1,180 @@
+/*tag section*/
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+}
+h1{
+  color: #7868e6;
+  font-size: 8rem;
+  font-family: 'Bebas Neue', cursive;
+  margin-bottom: 5px;
+}
+h2{
+  color: #21094e;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  font-size: 1.3rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  line-height: 2;
+}
+hr{
+  border: dotted #393e46 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+a{
+  color: #7868e6;
+  margin: 10px 20px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #393e46;
+}
+
+/*container section*/
+.top-container{
+  background-color: #e4fbff;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+  margin: 100px 0 60rem;
+}
+.bottom-container {
+  background-color: #e4fbff;
+  padding: 50px 0 20px;
+}
+/*image section*/
+.bts2-img{
+  width: 70%;
+}
+.bts-logo{
+  width: 60%;
+  margin-bottom: 250px;
+}
+/* members-middlecontainer section*/
+.rm-img{
+  width: 30%;
+  position: relative;
+  top: 200px;
+}
+.jin-img{
+  width: 30%;
+  position: relative;
+  top: 250px;
+}
+.suga-img{
+  width: 30%;
+  position: relative;
+  top: 300px;
+}
+.jhope-img{
+  width: 30%;
+  position: relative;
+  top: 350px;
+}
+.jimin-img{
+  width: 30%;
+  position: relative;
+  top: 400px;
+}
+.v-img{
+  width: 30%;
+  position: relative;
+  top: 450px;
+}
+.jk-img{
+  width: 30%;
+  position: relative;
+  top: 500px;
+}
+.rm-content{
+  position: relative;
+  top: 150px;
+}
+.jin-content{
+  position: relative;
+  top: 200px;
+}
+.suga-content{
+  position: relative;
+  top: 250px;
+}
+.jhope-content{
+  position: relative;
+  top: 300px;
+}
+.jimin-content{
+  position: relative;
+  top: 350px;
+}
+.v-content{
+  position: relative;
+  top: 400px;
+}
+.jk-content{
+  position: relative;
+  top: 450px;
+}
+#members-id{
+  color: #b8b5ff;
+  text-decoration: underline;
+}
+.mem-ans-color{
+  color: #aaaaaa;
+}
+
+/*songs-middlecontainer section */
+#songs-id{
+  color: #b8b5ff;
+  text-decoration: underline;
+}
+.songs-hr{
+  position: relative;
+  top: 500px
+}
+.songs-row{
+  position: relative;
+  top: 500px;
+}
+.songs-content{
+  color: black;
+  font-family: 'Sacramento', cursive;
+  font-size: 1.5rem;
+}
+
+/* motto-middlecontainer section*/
+.motto{
+  position: relative;
+  top: 130px;
+}
+.b-m{
+  text-decoration: underline;
+}
+.motto-content{
+  position: relative;
+  top: 100px;
+  font-family: 'Abril Fatface', cursive;
+  letter-spacing: 2px;
+}
+
+/*special class section*/
+.highlight{
+  color: #511281;
+  font-size: 2rem;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
